@@ -109,7 +109,7 @@ a {
 .nav_container .social_links i {
   margin: 0px 8px;
   color: var(--mainColor);
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
 }
 /* under line after clicking */
@@ -144,6 +144,7 @@ a {
   .nav_container .menu {
     color: var(--mainColor);
     margin-right: 40px;
+    font-size: 18px;
     transition: var(--mainTime);
   }
   .mouse {
@@ -314,14 +315,14 @@ a {
 
 @media (max-width: 776px) {
   .footer_con .footer {
-    padding: 15px;
+    padding: 13px;
   }
   .footer_con .footer .box_1 h2 {
     font-size: 20px;
     margin-left: -37px;
   }
   .footer_con .footer .box_2 i {
-    font-size: 18px;
+    font-size: 17px;
   }
 }
 /* ending footer */
